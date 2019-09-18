@@ -270,7 +270,6 @@ img {
 	.portfolio-item{
 		width: 30vw;
 		margin: 1.5rem 1vw 0rem 1vw;
-		float: inherit;
 	}
 	.portfolio-items{
 		margin-left: 2vw;
