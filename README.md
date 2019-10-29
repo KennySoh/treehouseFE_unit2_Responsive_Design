@@ -7,8 +7,10 @@ To explore the project visit the Github Page: https://kennysoh.github.io/treehou
 ## A sample of the project
 
 
-| Mobile        | Tablet           | 
+| Mobile (320px)       | Tablet (768px)         | 
 | ------------- |:-------------:| 
 | ![images](https://github.com/KennySoh/treehouse_unit2/blob/master/mockups/responsive-website_mobile320.png)  | ![images](https://github.com/KennySoh/treehouse_unit2/blob/master/mockups/responsive-website_tablet768.png) |   
 
-![images](https://github.com/KennySoh/treehouse_unit2/blob/master/mockups/responsive-website_desktop1024.png) 
+| Desktop (1024px)      |
+| ------------- |
+|![images](https://github.com/KennySoh/treehouse_unit2/blob/master/mockups/responsive-website_desktop1024.png) |
