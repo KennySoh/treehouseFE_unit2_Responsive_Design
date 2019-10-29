@@ -2,7 +2,7 @@
 
 A Mobile First Responsive Layout with 3 Different break points (320px , 768px, 1024px)
 
-To explore the project visit the Github Page: https://kennysoh.github.io/treehouse_unit2_Responsive_Design/
+To explore the project visit the Github Page: https://kennysoh.github.io/treehouse_unit2_Responsive_Design
 
 ## A sample of the project
 
